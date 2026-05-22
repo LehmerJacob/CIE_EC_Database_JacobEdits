@@ -1,12 +1,14 @@
 # CIE Engineered Controls
 
-A research repository from the **Cyber-Informed Engineering (CIE)** program at Idaho National Laboratory. This repository contains the Engineered Controls Database — a catalog of physical and procedural controls mapped to cyber-physical resilience roles across all 18 DHS Critical Infrastructure sectors — along with a browser-based dashboard for exploring it.
+A research repository from the **Cyber-Informed Engineering (CIE)** program at Idaho National Laboratory. This repository contains the Engineered Controls Database — a catalog of engineered controls mapped to cyber-physical resilience roles across all 18 DHS Critical Infrastructure sectors — along with a browser-based dashboard for exploring it.
 
 ---
 
 ## What Is Cyber-Informed Engineering?
 
-Cyber-Informed Engineering (CIE) is a methodology developed at Idaho National Laboratory that integrates cybersecurity thinking directly into the engineering design and operation of critical infrastructure. Rather than treating cyber threats as a purely IT concern, CIE embeds security considerations into physical system design so that engineered safeguards provide resilience even when digital controls are compromised or manipulated.
+Sponsored by Department of Energy's Office of Cybersecurity, Energy Security, and Emergency Response (CESER), CIE eliminates cyber impacts through the unbreakable laws of engineering and physics, ensuring energy dominance by embedding security into infrastructure design and helping asset owners and vendors create secure-by-design systems and reduce costly disruptions from cyber attacks.
+
+Traditional cybersecurity alone cannot prevent catastrophic consequences in increasingly digital engineered systems. CIE closes this gap by integrating engineered controls at the physical and algorithmic levels--ensuring safety, reliability, and performance even under attack.
 
 More information: [inl.gov/cie](https://inl.gov/cie)
 
