@@ -73,9 +73,7 @@ Displays database metadata (program name, author, organization, contact) and a v
 | --- | --- |
 | `engineered_controls_v2.html` | The complete dashboard — one self-contained HTML file |
 | `idf_min.json` | DHS Infrastructure Taxonomy (minified) — enables the hierarchy browser |
-| `engctrls_full_encoded.json` | The engineered controls database (not included in repo — see below) |
-
-> The controls database file is not included in this repository as it contains proprietary research data. Contact the author to request access.
+| `engctrls.json` | The engineered controls database (included in the data directory of this repository) |
 
 ---
 
